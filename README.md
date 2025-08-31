@@ -1,5 +1,3 @@
-# IBM-Data-Analyst-Capstone-Project
-
 # In-Demand Programming Skills Analysis
 
 # - Project Overview :
