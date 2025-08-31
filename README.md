@@ -22,7 +22,7 @@ The analysis leverages data collected from:
 - Visualization: Creating interactive dashboards using IBM Cognos Analytics.
 - Reporting: Synthesizing findings into clear visualizations and a final presentation.
 
-#- Branch Content :
+# - Branch Content :
 This branch contains:
 - Scripts to collect and process job postings and survey data.
 - Data wrangling notebooks to clean and prepare datasets.
